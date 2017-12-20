@@ -1,5 +1,5 @@
 package arrayListJava;
-// How to reverse ArrayList in Java with Example
+// How to reverse ArrayList in Java
 
 import java.util.ArrayList;
 import java.util.Collection;
